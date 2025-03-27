@@ -1,4 +1,4 @@
-# 🖩 WPF MVVM Calculator  
+# 🖩 WPF Calculator  
 
 ## 📌 Overview  
 This project is a **Windows Presentation Foundation (WPF) Calculator** that follows the **MVVM (Model-View-ViewModel)** architecture. The application provides both **Standard and Programmer Calculator** modes, allowing users to perform various arithmetic and base conversions seamlessly.  
